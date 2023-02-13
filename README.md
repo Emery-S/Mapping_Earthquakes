@@ -2,7 +2,7 @@
 ## Overview 
 This repo contains several different maps built with JavaScript and HTML that utilize Mapbox api, a location data service, and code from Leaflet, a JavaScript library.
 ### Maps
-<font size='1'> *There are many different styles utilized in these maps and some contain an option to select a different style in the html.*</font>
+<font size='0.5'> *There are many different styles utilized in these maps and some contain an option to select a different style in the html.*</font>
 #### Practice Maps include the following:
 * A Simple Map, used as a base
 * Simply City and Population Map
